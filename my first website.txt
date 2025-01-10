@@ -1,0 +1,14 @@
+HTML -Elements
+        -Tags
+        <head><title>This is the head</title></head>
+
+
+
+<!DOCTYPE html>                 -Document type is html
+<html></html>                   -html document
+<head></head>                   -main content/purpose of the document
+<title></title>                 -main topic (My fav cat)
+<body></body>                   -Main Content
+<h1></h1>                       -Main Heading  
+<p></p>                         -information about the page
+<footer></footer>               -Additional info
